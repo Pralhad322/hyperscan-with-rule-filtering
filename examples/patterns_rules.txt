@@ -1,0 +1,609 @@
+1:Login failed for user 'sa'
+2:.ra
+3:.rmp
+4:.rt
+5:.rp
+6:.emf
+7:.wmf
+8:connected
+9:getclient
+10:client
+11:SMB2
+12:\x07\x00
+13:\xffSMB
+14:\x07\x00
+15:\xffSMB2
+16:\x07\x00
+17:\xffSMB
+18:\x07\x00
+19:\xffSMB2
+20:\x01\x00
+21:\xffSMB
+22:\x01\x00
+23:\xffSMB2
+24:\x01\x00
+25:\xffSMB
+26:\x01\x00
+27:\xff\xff\xff\xff\xff\xff\x00\x00\xfe\xff\xff\xff\xff\xff\xff\xff\xff\xff\x88\xff
+28:/tongji.js
+29:Host: 
+30:\x00\x00\x00\x01\x00\x00\x00
+31:\x01\x00\x00\x00h\x01\x00\x00
+32:User-Agent: Opera\\9.64\n
+33:bb.php?v=
+34:id=
+35:b=
+36:tm=
+37:POST
+38:/login.php
+39:\xc9\x97\xa2\xf3~7\xcb~'
+40:220 
+41:0wns j0
+42:221 Goodbye happy r00ting
+43:User-Agent: asafaweb.com
+44:User-Agent: core-project
+45:POST
+46:User-Agent: Mozilla/4.0\r\n
+47:smk=
+48:_0000=
+49:SL_
+50:_0000=
+51:/hi.cgi
+52:302
+53:=_
+54:_\\; domain=
+55:name=\\"Twitter\\" scrolling=\\"auto\\" frameborder=\\"no\\" align=\\"center\\" height = \\"1px\\" width = \\"1px\\">
+56:\x9e\x98
+57:User-Agent: Google page\r\n
+58:.asp?
+59:mac=
+100:; filename=PostalReceipt.zip\r\n
+101:PostalReceipt.exe
+102:; filename=BookingInfo.zip\r\n
+103:BookingInfo.exe
+104:; filename=BookingDetails.zip\r\n
+105:BookingDetails.exe
+106:\x9a\x02\x00\x00
+107:Accept-Language: en-us;\r\n
+108:wok5VLG.6
+109:/js/disable.js?type=
+110:Accept: application/javascript, */*;q=0.8
+111:User-Agent: Mozilla/5.0 (Windows; U; MSIE 9.0; Windows NT 9.0; en-US)\r\n
+112:);(b:3790;c:INT-6760;l:09)\r\n
+113:/cmd.php?cmd=
+114:arq=
+115:cmd2=
+116:) Chrome/
+117:\nAccept-Encoding: 
+118:/listas/out/si.php
+119:HTTP/1.0\r\n
+120:/Home/index.php" width=1 height=1 scrolling=no></iframe>
+121:POST
+122:.php
+123:User-Agent: Mozilla/3.0 (compatible; Indy Library)\r\n
+124:form-data; name="userfile"; filename=
+125:yoO4TAbn2tpl5DltCfASJIZ2spEJPLSn
+126:/in.php
+127:.ru\r\nUser-Agent: Mozilla/4.0\r\n
+128:\nContent-Length: 
+129:/b/n/winrar/tudo.rar
+130:a=select CAMPO from PAGINA where CODIGO = 
+131:cstype=
+132:&authname=
+133:&authpass=
+134:&hostname=
+135:&ostype=
+136:&macaddr=
+137:&owner=
+138:/pid/pid.txt
+139:(compatible; Indy Library)\r\n\r\n
+140:; filename=Postal-Receipt.zip\r\n
+141:Postal-Receipt.exe
+142:/pics/_vti_cnf/00.inf
+143:User-Agent: Brontok.A8 Browser\r\n
+144:.php?mac=
+145:\r\nAccept-Language: ko\r\n
+146:/nosignal.jpg?
+147:/ksa.txt
+148:User-Agent: Mozilla/3.0 (compatible; Indy Library)
+149:op=
+150:&nmpc=
+151:\x07gigasbh.org\x03org
+152:\x05xixbh\x03com
+153:\x05xixbh\x03net
+154:-2013.zip\r\n
+155:-2013.zip\r\n
+156:-2013.exe
+157:Accept: application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+158:User-Agent:
+159:User-Agent: NOKIAN95/WEB
+160:MZ
+161:/*\x14 
+162:\x0ed1js21szq85hyn\ncloudfront\x03net
+163:Mozilla/3.0 (Compatible);Brutus/AET
+164:sousi.extasix.com\r\n
+165:/genst.htm
+166:Opera/10 
+167:/images/m.php?id=
+168:; MSIE 6.0; 
+169:Referer: 
+170:/ccbill/m.php?id=
+171:; MSIE 6.0; 
+172:Referer: 
+173:\x0bmsnsolution\x06nicaze\x03net\x00
+174:\x0ftheimageparlour\x03net\x00
+175:\x03ns
+176:theimageparlour\x03net\x00
+177:/feed?req=http
+178:; MSIE 
+179:\r\nAccept-Language:
+180:\r\nReferer:
+181:PCRatd
+182:hostid=
+183:&hostname=
+184:&hostip=
+185:GET
+186:/login.php
+187:Referer: http://www.google.com
+188:User-Agent: Mozilla/4.0 (compatible; MSIE 2.0;
+189:HTTP/1.0\r\n
+190:; filename=
+191:Delivery_Information_ID-
+192:Delivery_Information_ID-
+193:.exe
+194:/windows/update/search?hl=
+195:&q=
+196:&meta=
+197:&id=
+198:POST /index.php HTTP/1.1\r\nContent-Type: multipart/form-data; boundary=
+199:\r\nConnection: close\r\nCache-Control: no-cache\r\nContent-Length: 
+200:; name="data"; filename="
+201:index.php
+202:; name="data"; filename="
+203:--
+204:<!--ded509-->
+205:<!--/ded509-->
+206:User-Agent: Opera/11 (Windows NT 5.1; ; x86)
+207:/count.php?page=
+208:gate.php?reg=
+209:User-Agent: Mozilla/4.0 (compatible; Synapse)\r\n
+210:gate.php?reg=
+211:User-Agent: Mozilla/4.0 (SEObot)\r\n
+212:gate.php?id=
+213:User-Agent: Mozilla/4.0 (compatible; SEObot)\r\n
+214:\x0307o\x05no-ip\x04info\x00
+215:s_alive.php?id=
+216:s_task.php?id=
+217:.com.br\r\n\r\n
+218:/imagens/
+219:.jpg
+220:.lavaibrasilok.com\r\n\r\n
+221:; MSIE 
+222:Accept-Language:
+223:http|
+224:stop|
+225:die|
+226:sleep|
+227:simple|
+228:loginpost|
+229:datapost|
+230:syn|
+231:udp|
+232:udpdata|
+233:data|
+234:icmp|
+235:tcpdata|
+236:dataget|
+237:connect|
+238:dns|
+239:exec|
+240:resolve|
+241:antiddos|
+242:range|
+243:ftp|
+244:download|
+245:fastddos|
+246:slowhttp|
+247:allhttp|
+248:full|
+249:/loader.cpl
+250:; MSIE 
+251:\r\nAccept-Language:
+252:GET
+253:/index.html
+254:.info\r\nCache-Control: no-cache\r\n\r\n
+255:POST
+256:cmd=gravar&dados=
+257:/cos3q/in
+258:.exe
+259:\x00<script type="text/javascript" src="/scripts/default0.js"></script>\x00
+260:\tvseforyou\x02ru\x00
+261:/content/img/awards.jpg
+262:; MSIE 6.0; Windows NT 5.1)\r\nAccept: */*\r\n
+263:/in.php
+264:&q=
+265:==
+266:<\\\\\\>IDLE<\\\\\\>
+267:macName=
+268:&macOS=
+269:&macMac=
+270:POST
+271:/info.php?act=
+272:POST
+273:<|>
+274:data=
+275:<|>
+276:<|>
+277:\tgoliyonzo\x02pw\x00
+278:\x05zalil\x02ru\x00
+279:\x07bigmack\x07opendns\x02be\x00
+280:\x10trafficconverter\x03biz\x00
+281:\x0fkukutrustnet777\x04info\x00
+282:/images/
+283:.php?id=
+284:= HTTP/1.
+285:.php?
+286:Accept
+287:<applet width=
+288: height=
+289: code=
+290:site.avi
+291: archive=
+292:/.cache/?f=
+293:.jar
+294:/forum/search.php?email=
+295:&method=
+296:Referer
+297:Accept-
+298:/u5.htm
+299://u5.htm
+300:/xgi-bin/
+301:.php?
+302:; MSIE 
+303:Accept-Language:
+304:rawin.php?b=
+305:&v=1.
+306:/get.asp?mac=
+307:&os=
+308:/jorg.html
+309:/jlnp.html
+310:/jovf.html
+311:PKcn
+312:\x00pipe.class
+313:\x00inc.class
+314:\x00fdp.class
+315:<html><body><script>\nvar 
+316:document.createElement(
+317:.setAttribute("archive", 
+318:.setAttribute("codebase", 
+319:.setAttribute("id", 
+320:.setAttribute("code", 
+321:");\ndocument.body.appendChild(
+322:</script>\n</body>\n</html>\n\n
+323:/?f=a
+324:&k=
+325:.php?
+326:content-type: application/
+327: Java/1
+328:\x08twinkcam\x03net\x00
+329:\x08cinnamyn\x03com\x00
+330:ps0=
+331:ps1=
+332:cs1=
+333:cs2=
+334:cs3=
+335:<iframe src="YOUR%20BROWSER%20HAS%20BEEN%20LOCKED
+336:\x08restless\x02su\x00
+337:User-Agent: Mozi1la/4.0\r\n
+338:GET
+339:Firefox/3.
+340:Accept-Language:
+341:Referer:
+342:/000.jpg
+343:HTTP/1.0\r\nHost: 
+344:: 
+345:\tmainenbha\x03com\x00
+346:\x08ohtheigh\x02cc\x00
+347:<div id="HideMeBetter">
+348:if(document.getElementById("HideMeBetter") != null)
+349:/ld.aspx
+350:User-Agent: FWVersionTestAgent\r\n
+351:&intip=
+352:?id=
+353:&port=
+354:&bid=
+355:/cmd.php
+356:User-Agent: Mozilla/4.0 (compatible; Synapse)
+357:\tdocuments\tmyPicture\x04info\x00
+358:\x03ftp\tdocuments\tmyPicture\x04info\x00
+359:\x04info\x04xxuz\x03com\x00
+360:\x03www\tdocuments\tmyPicture\x04info\x00
+361:/tomcat-docs/index.jsp?/
+362:User-Agent: Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0)
+363:/bbs/search.asp
+364:User-Agent: Mozilla/4.0 (compatible; MSIE 5.0; Windows NT 5.0)
+365:/buy-sell/search.asp?newsid=
+366:User-Agent: Mozilla/4.0 (compatible; MSIE 5.0; Windows NT 5.0)
+367:\nhidatabase\x02cn\x00
+368:/ul.htm
+369:; MSIE 6.0; 
+370:Accept-Language: 
+371:POST
+372:valor=
+373:]branco[
+374:POST
+375:remetente=
+376:&destinatario=
+377:&assunto=
+378:&mensagem=
+379:.php HTTP/1.1\r\nUser-Agent: Opera/
+380:\x06wolfvr\x03com\x00
+381:/update/ido.ipl
+382:/update/myinfo.php
+383:/update/param.php?
+384:POST
+385:; name="arquivo"; filename="C:\\
+386:_.log"\r\n
+387:GET
+388:.htm
+389:Accept
+390:\nContent-Length: 164\r\nUser-Agent: 
+391:host:
+392:lUUE
+393:/page/index_htm_files2/
+394:.png
+395:/form.php
+396:RcpTfdsvoD9KB9O
+397:GET /3001
+398:0000000000000000000000000
+399:.php
+400:GET
+401:PacketShaper
+402:siteadvisor.com
+403:<body><b></b><style>div{overflow:hidden;width:1px;height:1px}</style><div>
+404:.exe HTTP/1.0\r\nHost:
+405:Accept-Encoding: identity, *;q=0\r\n
+406:; MSIE 
+407:Accept-Encoding: identity, *;q=0\r\n
+408:; MSIE 
+409:Gh0st
+410:\x00\x00\x00
+411:\x00\x00x\x9c
+412:insert into avs (id, pc,data,ref,country , id_user, mostrar)values(
+413:X-Forwarded-For
+414:=Response
+415:FromBase64String
+416:X-Forwarded-For
+417:=Execute
+418:On+Error+Resume+Next:
+419:/index.php?
+420:-dsafe_mode
+421:-ddisable_functions
+422:-dallow_url_fopen
+423:-dallow_url_include
+424:-dauto_prepend_file
+425:echo.txt
+426:/index.aspx?info=startupkey_
+427:/index.aspx?info=reuse
+428:/index.aspx?info=configkey
+429:/index.aspx?info=tserror_
+430:/index.aspx?info=createproc_
+431:from=%20Nome..:
+432:User-Agent: Opera/10.80 (Windows NT 5.1; U; Edition Yx; en) Presto/2.9.168 Version/11.52\r\n
+433:/ping.html?r=
+434:/utils/
+435:/crypt_1_sell
+436:POST
+437:v=
+438:&u=
+439:&c=
+440:&s={
+441:}&w=
+442:/v22/mutabixa/
+443:/v22/mutabixa/1nf3ct/
+444:chave=
+445:&url=
+446:.jpg
+447:User-Agent: runddll32.exe
+448:\r\nuuid: 
+449:User-Agent:
+450:Content-Type: binary/octet-stream\r\n
+451:/?u=
+452:&u2=
+453:&u5=inststart
+454:NSIS_Inetc (Mozilla)
+455:/get.php?invite=
+456:Accept-Encoding: gzip
+457:Referer:
+458:/?gws_rd=cr
+459:\r\nConnection: Close\r\n\r\n
+460:; MSIE 
+461:Accept-Encoding: 
+462:\x03www\txiaopijia\x03com\x00
+463:\x03www\x07akwm139\x03com\x00
+464:\x03www\x081860tour\x03com\x00
+465:\x03www\x05ghjgf\x04info\x00
+466:/status/?&cmp=
+467:&src=
+468:&status=start
+469:User-Agent: 
+470:Accept
+471:X-Forwarded-For
+472:FromBase64String
+473:&affid=
+474:/api/
+475:?ts=
+476:&token=
+477:&group=
+478:&nid=
+479:&lid=
+480:&ver=
+481:ps="split";asd=function()
+482:aq="0x";ff=String;
+483:\x06goobzo\x03com\x00
+484:/p.ashx?prd=
+485:&pixGuid=
+486:&ver=
+487:&rnd=
+488:Accept
+489:"c"+"r":2+"e"+"a"+"t"+"e"+"E"+"l"+"e"+"m"+((f)?"e"+"n"+"t":""
+490:"fr"+"omCh"+"arCo"+"de"
+491:= "applet"; 
+492:= "object"; 
+493:='param'; 
+494:.zip'; </script>
+495:.jnlp
+496: Java/1.
+497:.zip
+498: Java/1.
+499:s\x00e\x00l\x00e\x00c\x00t\x00 \x00v\x00e\x00r\x00i\x00f\x00i\x00c\x00a\x00n\x00d\x00o\x00 \x00f\x00r\x00o\x00m\x00 \x00v\x00e\x00r\x00i\x00f\x00i\x00c\x00a\x00n\x00d\x00o\x00 \x00w\x00h\x00e\x00r\x00e\x00 \x00i\x00d\x00_\x00p\x00c\x00=\x00
+500:.ld
+501: Java/1.
+502:User-Agent: lynx\r\n
+503:POST
+504:\x07lovesyr\x05sytes\x03net\x00
+505:\r\nAccept: */*\r\nAccept-Encoding: identity, *;q=0\r\nConnection: close\r\nUser-Agent: 
+506:.exe HTTP/1.0\r\nHost: 
+507:GET / HTTP/1.1\r\nUser-Agent: Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0)\r\nHost: checkip.dyndns.org\r\nCache-Control: no-cache\r\n\r\n
+508:GET / HTTP/1.1\r\nUser-Agent: Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0)\r\nHost: www.ask.com\r\nCache-Control: no-cache\r\n\r\n
+509:GET / HTTP/1.1\r\nAccept: */*\r\nAccept-Language:
+510:\r\nConnection: Close\r\n\r\n
+511:google.com\r\n
+512:; MSIE 
+513:Accept-Encoding: 
+514:ip-who-is.com\r\n
+515:/locate-ip/
+516:User-Agent: Mozilla/3.0 (compatible; Indy Library)
+517:UPDATE|
+518:\r\n\r\n&nome=
+519:conteudo=
+520:\x00\x00
+521:/load.exe HTTP/1.1\r\nUser-Agent: Mozilla/
+522:; MSIE 
+523:)\r\nHost: 
+524:Accept
+525:; filename=exe.exe\r\n
+526:/post.aspx?forumID=
+527:\r\nURL: http
+528:Accept
+529:forumdisplay.php?fid=
+530:id=
+531:Accept
+532:User-Agent: Zollard\r\n
+533:User-Agent: z00sAgent
+534:/?
+535:Firefox/4.0b8pre\r\n
+536:/config.php?
+537:version=
+538:user=
+539:server=
+540:id=
+541:crc=
+542:id=
+543:\x03ns0\x07pollosm\x02me\x02uk\x00
+544:\x03ns1\x07pollosm\x02me\x02uk\x00
+545:\x08fenhelua\x03com
+546:/cmd?version=
+547:&aid=
+548:&id=
+549:&os=
+550:; name="arquivo"; filename="C:\\
+551:\r\nTP=
+552:\r\nLGSN=
+553:; Windows NT 5.0\r\nHost:
+554: HTTP/1.1\r\nConnection: Keep-Alive\r\nAccept: */*\r\nUser-Agent: Mozilla/
+555:JOIN :#
+556:!dl http://
+557:User-Agent: Mozilla/4.0 (compatible)\r\n
+558:/launch.php
+559:?f=
+560:&s=
+561:&is_direct=
+562:User-Agent: Mozilla/4.0 (compatible)\r\n
+563:/direct.php
+564:?f=
+565:&s=
+566:JOIN #biz abc\r\n
+567:JOIN #n jobs\r\n
+568:JOIN #test1 |\r\nJOIN #test2 |\r\nJOIN #test3 (null)\r\n
+569:/avcheck.exe\r\n\r\n
+570:\r\nLocation: https://dl.dropboxusercontent.com/
+571:\tjiang-zem\x02in\x00
+572:/webstat/?i=
+573:User-Agent: Mozilla/7
+574:; MSIE 
+575:Accept-Encoding:
+576:User-Agent: fortis\r\n
+577:/se/gate.php
+578:HTTP/1.1\r\nCache-Control: no-cache\r\nConnection: close\r\nPragma: no-cache\r\nContent-Type: application/x-www-form-urlencoded\r\nUser-Agent: Mozilla/4.0\r\nContent-Length: 
+579:/mod/lookfashon.jpg
+580:Accept-Language:
+581:/chamjavanv.inf?aapf/login.jsp?=
+582:/novredir_inf.php?apt/login.jsp?=
+583:/FileToDownload.exe
+584:Host: dl.dropbox.com\r\n
+585:Accept
+586:User-Agent
+587:\x07bog5151\x05zapto\x03org\x00
+588:\x04kara\x05no-ip\x04info\x00
+589:; filename=CostcoForm.zip\r\n
+590:CostcoForm.exe
+591:rotina=UPDATE&tip=stat&nome=
+592:&tmp=
+593:&stat=
+594:\x05antiq\x05scifi\x02ro\x00
+595:\x05funny\x05evils\x02in\x00
+596:JOIN #vnc\n
+597:PRIVMSG #vnc :
+598:status checking program online
+599:/trace/Start HTTP/1.1\r\nHost: 
+600:/debug/Version/
+601:Accept
+602:User-Agent:
+603:&bolausado
+604:rotina=
+605:&casa=
+606:&idcliente
+607:&outro=
+608:POST
+609:/uplink.php?logo.jpg
+610:User-Agent: Mozilla/5.0
+611:token=
+612:Mozilla/4.0 (compatible; MSIE 4.01; Windows NT)\r\n
+613:\tappleupdt\x03com\x00
+614:\x06carrus\x06gotdns\x03com\x00
+615:\ncherry1962\x06dyndns\x03org\x00
+616:\rctronlinenews\x06dyndns\x02tv\x00
+617:\x04dfup\x06selfip\x03org\x00
+618:\x05fast8\x07homeftp\x03org\x00
+619:\x06gx5639\x06dyndns\x02tv\x00
+620:\x11helpcenter1it6238\x02cz\x02cc\x00
+621:\x07mango66\x06dyndns\x03org\x00
+622:\x06msupdt\x03com\x00
+623:\x07nav1002\x03ath\x02cx\x00
+624:\x06nthost\x08shacknet\x02nu\x00
+625:\noco-231-ms\x05xns01\x03com\x00
+626:\x0bpininfarina\x08dynalias\x03com\x00
+627:\x05pl400\x06dyndns\x03org\x00
+628:\nprosoccer1\x06dyndns\x04info\x00
+629:\x06ricush\x03ath\x02cx\x00
+630:\x08services\x08serveftp\x03org\x00
+631:\x02sv\x08serveftp\x03org\x00
+632:\x06swupdt\x03com\x00
+633:\x06takami\x07podzone\x03net\x00
+634:\x05tunga\x07homedns\x03org\x00
+635:\x03wqq\x06dyndns\x03org\x00
+636:\x05wwnav\x06selfip\x03net\x00
+637:Group=
+638:Install=
+639:Ver=
+640:Ask=
+641:Bn=
+642:/ag/plugin.crx
+643:/l/af_l_addon.xpi
+644:/m/f_l_addon.xpi
+645:/post
+646:User-Agent: something
+647:mac=
+648:&t1=
+649:/post/echo

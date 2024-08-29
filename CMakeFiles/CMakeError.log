@@ -1,0 +1,252 @@
+Performing C SOURCE FILE Test ARCH_32_BIT failed with the following output:
+Change Dir: /home/pralhad/hyperscan/hyperscan/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_886de/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_886de.dir/build.make CMakeFiles/cmTC_886de.dir/build
+gmake[1]: Entering directory '/home/pralhad/hyperscan/hyperscan/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_886de.dir/src.c.o
+/usr/bin/cc -DARCH_32_BIT   -o CMakeFiles/cmTC_886de.dir/src.c.o -c /home/pralhad/hyperscan/hyperscan/CMakeFiles/CMakeTmp/src.c
+/home/pralhad/hyperscan/hyperscan/CMakeFiles/CMakeTmp/src.c:2:2: error: #error not 64bit
+    2 | #error not 64bit
+      |  ^~~~~
+gmake[1]: *** [CMakeFiles/cmTC_886de.dir/build.make:78: CMakeFiles/cmTC_886de.dir/src.c.o] Error 1
+gmake[1]: Leaving directory '/home/pralhad/hyperscan/hyperscan/CMakeFiles/CMakeTmp'
+gmake: *** [Makefile:127: cmTC_886de/fast] Error 2
+
+
+Source file was:
+#if !(defined(__i386__) || defined(_M_IX86))
+#error not 64bit
+#endif
+int main(void) { return 0; }
+Determining if files intrin.h exist failed with the following output:
+Change Dir: /home/pralhad/hyperscan/hyperscan/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_9cf84/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_9cf84.dir/build.make CMakeFiles/cmTC_9cf84.dir/build
+gmake[1]: Entering directory '/home/pralhad/hyperscan/hyperscan/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_9cf84.dir/HAVE_C_INTRIN_H.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_9cf84.dir/HAVE_C_INTRIN_H.c.o -c /home/pralhad/hyperscan/hyperscan/CMakeFiles/CheckIncludeFiles/HAVE_C_INTRIN_H.c
+/home/pralhad/hyperscan/hyperscan/CMakeFiles/CheckIncludeFiles/HAVE_C_INTRIN_H.c:2:10: fatal error: intrin.h: No such file or directory
+    2 | #include <intrin.h>
+      |          ^~~~~~~~~~
+compilation terminated.
+gmake[1]: *** [CMakeFiles/cmTC_9cf84.dir/build.make:78: CMakeFiles/cmTC_9cf84.dir/HAVE_C_INTRIN_H.c.o] Error 1
+gmake[1]: Leaving directory '/home/pralhad/hyperscan/hyperscan/CMakeFiles/CMakeTmp'
+gmake: *** [Makefile:127: cmTC_9cf84/fast] Error 2
+
+
+Source:
+/* */
+#include <intrin.h>
+
+
+int main(void){return 0;}
+
+Determining if the include file intrin.h exists failed with the following output:
+Change Dir: /home/pralhad/hyperscan/hyperscan/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_05dc6/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_05dc6.dir/build.make CMakeFiles/cmTC_05dc6.dir/build
+gmake[1]: Entering directory '/home/pralhad/hyperscan/hyperscan/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_05dc6.dir/CheckIncludeFile.cxx.o
+/usr/bin/c++    -o CMakeFiles/cmTC_05dc6.dir/CheckIncludeFile.cxx.o -c /home/pralhad/hyperscan/hyperscan/CMakeFiles/CMakeTmp/CheckIncludeFile.cxx
+/home/pralhad/hyperscan/hyperscan/CMakeFiles/CMakeTmp/CheckIncludeFile.cxx:1:10: fatal error: intrin.h: No such file or directory
+    1 | #include <intrin.h>
+      |          ^~~~~~~~~~
+compilation terminated.
+gmake[1]: *** [CMakeFiles/cmTC_05dc6.dir/build.make:78: CMakeFiles/cmTC_05dc6.dir/CheckIncludeFile.cxx.o] Error 1
+gmake[1]: Leaving directory '/home/pralhad/hyperscan/hyperscan/CMakeFiles/CMakeTmp'
+gmake: *** [Makefile:127: cmTC_05dc6/fast] Error 2
+
+
+
+Determining if the function _aligned_malloc exists failed with the following output:
+Change Dir: /home/pralhad/hyperscan/hyperscan/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_56c1e/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_56c1e.dir/build.make CMakeFiles/cmTC_56c1e.dir/build
+gmake[1]: Entering directory '/home/pralhad/hyperscan/hyperscan/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_56c1e.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=_aligned_malloc -o CMakeFiles/cmTC_56c1e.dir/CheckFunctionExists.c.o -c /usr/share/cmake-3.22/Modules/CheckFunctionExists.c
+Linking C executable cmTC_56c1e
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_56c1e.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=_aligned_malloc -rdynamic CMakeFiles/cmTC_56c1e.dir/CheckFunctionExists.c.o -o cmTC_56c1e 
+/usr/bin/ld: CMakeFiles/cmTC_56c1e.dir/CheckFunctionExists.c.o: in function `main':
+CheckFunctionExists.c:(.text+0x14): undefined reference to `_aligned_malloc'
+collect2: error: ld returned 1 exit status
+gmake[1]: *** [CMakeFiles/cmTC_56c1e.dir/build.make:99: cmTC_56c1e] Error 1
+gmake[1]: Leaving directory '/home/pralhad/hyperscan/hyperscan/CMakeFiles/CMakeTmp'
+gmake: *** [Makefile:127: cmTC_56c1e/fast] Error 2
+
+
+
+Determining if the _LIBCPP_VERSION exist failed with the following output:
+Change Dir: /home/pralhad/hyperscan/hyperscan/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_dd278/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_dd278.dir/build.make CMakeFiles/cmTC_dd278.dir/build
+gmake[1]: Entering directory '/home/pralhad/hyperscan/hyperscan/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_dd278.dir/CheckSymbolExists.cxx.o
+/usr/bin/c++    -o CMakeFiles/cmTC_dd278.dir/CheckSymbolExists.cxx.o -c /home/pralhad/hyperscan/hyperscan/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx
+/home/pralhad/hyperscan/hyperscan/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx: In function ‘int main(int, char**)’:
+/home/pralhad/hyperscan/hyperscan/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx:8:19: error: ‘_LIBCPP_VERSION’ was not declared in this scope
+    8 |   return ((int*)(&_LIBCPP_VERSION))[argc];
+      |                   ^~~~~~~~~~~~~~~
+gmake[1]: *** [CMakeFiles/cmTC_dd278.dir/build.make:78: CMakeFiles/cmTC_dd278.dir/CheckSymbolExists.cxx.o] Error 1
+gmake[1]: Leaving directory '/home/pralhad/hyperscan/hyperscan/CMakeFiles/CMakeTmp'
+gmake: *** [Makefile:127: cmTC_dd278/fast] Error 2
+
+
+File /home/pralhad/hyperscan/hyperscan/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx:
+/* */
+#include <ciso646>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef _LIBCPP_VERSION
+  return ((int*)(&_LIBCPP_VERSION))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Performing C SOURCE FILE Test HAVE_AVX512 failed with the following output:
+Change Dir: /home/pralhad/hyperscan/hyperscan/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_38c9b/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_38c9b.dir/build.make CMakeFiles/cmTC_38c9b.dir/build
+gmake[1]: Entering directory '/home/pralhad/hyperscan/hyperscan/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_38c9b.dir/src.c.o
+/usr/bin/cc -DHAVE_AVX512  -O3 -std=c99 -Wall -Wextra -Wshadow -Wcast-qual -fno-strict-aliasing -DNDEBUG -Wno-array-bounds -Wno-maybe-uninitialized -Wno-abi -fno-omit-frame-pointer -fvisibility=hidden -march=core-avx2 -o CMakeFiles/cmTC_38c9b.dir/src.c.o -c /home/pralhad/hyperscan/hyperscan/CMakeFiles/CMakeTmp/src.c
+/home/pralhad/hyperscan/hyperscan/CMakeFiles/CMakeTmp/src.c:3:2: error: #error no avx512bw
+    3 | #error no avx512bw
+      |  ^~~~~
+gmake[1]: *** [CMakeFiles/cmTC_38c9b.dir/build.make:78: CMakeFiles/cmTC_38c9b.dir/src.c.o] Error 1
+gmake[1]: Leaving directory '/home/pralhad/hyperscan/hyperscan/CMakeFiles/CMakeTmp'
+gmake: *** [Makefile:127: cmTC_38c9b/fast] Error 2
+
+
+Source file was:
+#include <x86intrin.h>
+#if !defined(__AVX512BW__)
+#error no avx512bw
+#endif
+
+int main(){
+    __m512i z = _mm512_setzero_si512();
+    (void)_mm512_abs_epi8(z);
+}
+Performing C SOURCE FILE Test HAVE_AVX512VBMI failed with the following output:
+Change Dir: /home/pralhad/hyperscan/hyperscan/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_51425/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_51425.dir/build.make CMakeFiles/cmTC_51425.dir/build
+gmake[1]: Entering directory '/home/pralhad/hyperscan/hyperscan/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_51425.dir/src.c.o
+/usr/bin/cc -DHAVE_AVX512VBMI  -O3 -std=c99 -Wall -Wextra -Wshadow -Wcast-qual -fno-strict-aliasing -DNDEBUG -Wno-array-bounds -Wno-maybe-uninitialized -Wno-abi -fno-omit-frame-pointer -fvisibility=hidden -march=core-avx2 -o CMakeFiles/cmTC_51425.dir/src.c.o -c /home/pralhad/hyperscan/hyperscan/CMakeFiles/CMakeTmp/src.c
+/home/pralhad/hyperscan/hyperscan/CMakeFiles/CMakeTmp/src.c:3:2: error: #error no avx512vbmi
+    3 | #error no avx512vbmi
+      |  ^~~~~
+gmake[1]: *** [CMakeFiles/cmTC_51425.dir/build.make:78: CMakeFiles/cmTC_51425.dir/src.c.o] Error 1
+gmake[1]: Leaving directory '/home/pralhad/hyperscan/hyperscan/CMakeFiles/CMakeTmp'
+gmake: *** [Makefile:127: cmTC_51425/fast] Error 2
+
+
+Source file was:
+#include <x86intrin.h>
+#if !defined(__AVX512VBMI__)
+#error no avx512vbmi
+#endif
+
+int main(){
+    __m512i a = _mm512_set1_epi8(0xFF);
+    __m512i idx = _mm512_set_epi64(3ULL, 2ULL, 1ULL, 0ULL, 7ULL, 6ULL, 5ULL, 4ULL);
+    (void)_mm512_permutexvar_epi8(idx, a);
+}
+Performing C SOURCE FILE Test CC_SELF_ASSIGN failed with the following output:
+Change Dir: /home/pralhad/hyperscan/hyperscan/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_8b449/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_8b449.dir/build.make CMakeFiles/cmTC_8b449.dir/build
+gmake[1]: Entering directory '/home/pralhad/hyperscan/hyperscan/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_8b449.dir/src.c.o
+/usr/bin/cc -DCC_SELF_ASSIGN  -Wself-assign -o CMakeFiles/cmTC_8b449.dir/src.c.o -c /home/pralhad/hyperscan/hyperscan/CMakeFiles/CMakeTmp/src.c
+cc: error: unrecognized command-line option '-Wself-assign'
+gmake[1]: *** [CMakeFiles/cmTC_8b449.dir/build.make:78: CMakeFiles/cmTC_8b449.dir/src.c.o] Error 1
+gmake[1]: Leaving directory '/home/pralhad/hyperscan/hyperscan/CMakeFiles/CMakeTmp'
+gmake: *** [Makefile:127: cmTC_8b449/fast] Error 2
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C++ SOURCE FILE Test CXX_SELF_ASSIGN failed with the following output:
+Change Dir: /home/pralhad/hyperscan/hyperscan/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_56074/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_56074.dir/build.make CMakeFiles/cmTC_56074.dir/build
+gmake[1]: Entering directory '/home/pralhad/hyperscan/hyperscan/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_56074.dir/src.cxx.o
+/usr/bin/c++ -DCXX_SELF_ASSIGN  -Wself-assign -o CMakeFiles/cmTC_56074.dir/src.cxx.o -c /home/pralhad/hyperscan/hyperscan/CMakeFiles/CMakeTmp/src.cxx
+c++: error: unrecognized command-line option '-Wself-assign'
+gmake[1]: *** [CMakeFiles/cmTC_56074.dir/build.make:78: CMakeFiles/cmTC_56074.dir/src.cxx.o] Error 1
+gmake[1]: Leaving directory '/home/pralhad/hyperscan/hyperscan/CMakeFiles/CMakeTmp'
+gmake: *** [Makefile:127: cmTC_56074/fast] Error 2
+
+
+Source file was:
+int main() { return 0; }
+Performing C SOURCE FILE Test CC_PAREN_EQUALITY failed with the following output:
+Change Dir: /home/pralhad/hyperscan/hyperscan/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_28cee/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_28cee.dir/build.make CMakeFiles/cmTC_28cee.dir/build
+gmake[1]: Entering directory '/home/pralhad/hyperscan/hyperscan/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_28cee.dir/src.c.o
+/usr/bin/cc -DCC_PAREN_EQUALITY  -Wparentheses-equality -o CMakeFiles/cmTC_28cee.dir/src.c.o -c /home/pralhad/hyperscan/hyperscan/CMakeFiles/CMakeTmp/src.c
+cc: error: unrecognized command-line option '-Wparentheses-equality'
+gmake[1]: *** [CMakeFiles/cmTC_28cee.dir/build.make:78: CMakeFiles/cmTC_28cee.dir/src.c.o] Error 1
+gmake[1]: Leaving directory '/home/pralhad/hyperscan/hyperscan/CMakeFiles/CMakeTmp'
+gmake: *** [Makefile:127: cmTC_28cee/fast] Error 2
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C++ SOURCE FILE Test CXX_BITWISE_INSTEAD_OF_LOGICAL failed with the following output:
+Change Dir: /home/pralhad/hyperscan/hyperscan/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_9024c/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_9024c.dir/build.make CMakeFiles/cmTC_9024c.dir/build
+gmake[1]: Entering directory '/home/pralhad/hyperscan/hyperscan/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_9024c.dir/src.cxx.o
+/usr/bin/c++ -DCXX_BITWISE_INSTEAD_OF_LOGICAL  -Wbitwise-instead-of-logical -o CMakeFiles/cmTC_9024c.dir/src.cxx.o -c /home/pralhad/hyperscan/hyperscan/CMakeFiles/CMakeTmp/src.cxx
+c++: error: unrecognized command-line option '-Wbitwise-instead-of-logical'
+gmake[1]: *** [CMakeFiles/cmTC_9024c.dir/build.make:78: CMakeFiles/cmTC_9024c.dir/src.cxx.o] Error 1
+gmake[1]: Leaving directory '/home/pralhad/hyperscan/hyperscan/CMakeFiles/CMakeTmp'
+gmake: *** [Makefile:127: cmTC_9024c/fast] Error 2
+
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test CXX_WEAK_VTABLES failed with the following output:
+Change Dir: /home/pralhad/hyperscan/hyperscan/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_6ef2f/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_6ef2f.dir/build.make CMakeFiles/cmTC_6ef2f.dir/build
+gmake[1]: Entering directory '/home/pralhad/hyperscan/hyperscan/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_6ef2f.dir/src.cxx.o
+/usr/bin/c++ -DCXX_WEAK_VTABLES  -Wweak-vtables -o CMakeFiles/cmTC_6ef2f.dir/src.cxx.o -c /home/pralhad/hyperscan/hyperscan/CMakeFiles/CMakeTmp/src.cxx
+c++: error: unrecognized command-line option '-Wweak-vtables'
+gmake[1]: *** [CMakeFiles/cmTC_6ef2f.dir/build.make:78: CMakeFiles/cmTC_6ef2f.dir/src.cxx.o] Error 1
+gmake[1]: Leaving directory '/home/pralhad/hyperscan/hyperscan/CMakeFiles/CMakeTmp'
+gmake: *** [Makefile:127: cmTC_6ef2f/fast] Error 2
+
+
+Source file was:
+int main() { return 0; }
+Determining if the include file pthread_np.h exists failed with the following output:
+Change Dir: /home/pralhad/hyperscan/hyperscan/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_38589/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_38589.dir/build.make CMakeFiles/cmTC_38589.dir/build
+gmake[1]: Entering directory '/home/pralhad/hyperscan/hyperscan/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_38589.dir/CheckIncludeFile.cxx.o
+/usr/bin/c++    -o CMakeFiles/cmTC_38589.dir/CheckIncludeFile.cxx.o -c /home/pralhad/hyperscan/hyperscan/CMakeFiles/CMakeTmp/CheckIncludeFile.cxx
+/home/pralhad/hyperscan/hyperscan/CMakeFiles/CMakeTmp/CheckIncludeFile.cxx:1:10: fatal error: pthread_np.h: No such file or directory
+    1 | #include <pthread_np.h>
+      |          ^~~~~~~~~~~~~~
+compilation terminated.
+gmake[1]: *** [CMakeFiles/cmTC_38589.dir/build.make:78: CMakeFiles/cmTC_38589.dir/CheckIncludeFile.cxx.o] Error 1
+gmake[1]: Leaving directory '/home/pralhad/hyperscan/hyperscan/CMakeFiles/CMakeTmp'
+gmake: *** [Makefile:127: cmTC_38589/fast] Error 2
+
+
+
