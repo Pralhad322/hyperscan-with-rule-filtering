@@ -42,7 +42,7 @@ public:
 
     // Retrieves the definition of a rule.
     // Returns std::nullopt if rule_id is not found.
-    std::optional<CuckooRuleInfo> get_rule_info(int rule_id) const;
+    const CuckooRuleInfo* get_rule_info(int rule_id) const;
 
     // Retrieves the list of rules a string participates in.
     // Returns an empty vector if the string_id is not found or participates in no rules.
